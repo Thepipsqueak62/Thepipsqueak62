@@ -1,8 +1,8 @@
-<h1 align="center">Aidan Ali</h1>
+<h1 align="center">Aidan</h1>
 <h3 align="center">Full Stack Software Developer</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AidanAli&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Aidan&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 ## About Me
@@ -21,8 +21,8 @@ I'm a full-stack developer passionate about building scalable, efficient applica
 - **Additional**: REST API Design, Test Automation (Selenium)
 
 ## Portfolio & Contact
-- 🌐 Portfolio: [aidanportfolio.vercel.app](https://aidanportfolio.vercel.app/)
-- 💬 Discord: `iamomni_`
+- 
+- 💬 Discord: ``
 
 ## Connect With Me
 <p align="left">
