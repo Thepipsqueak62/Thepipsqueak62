@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Software Developer</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Aidan&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Thepipsqueak62&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 ## About Me
@@ -66,5 +66,5 @@ I'm a full-stack developer passionate about building scalable, efficient applica
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=omni-aa&show_icons=true&locale=en&layout=compact&theme=dark" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Thepipsqueak62&show_icons=true&locale=en&layout=compact&theme=dark" alt="Most Used Languages" />
 </p>
